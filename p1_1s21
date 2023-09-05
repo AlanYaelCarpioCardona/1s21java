@@ -1,0 +1,5 @@
+class p1_1s21
+public static void main(String[] args) {
+ system.out.println("este es mi primer programa");	
+}
+}
